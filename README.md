@@ -54,7 +54,7 @@ Always eager to learn, I’m deeply interested in **software design**, **game de
 > - Dynamic color feedback system (correct, present, absent)  
 > - Unique game codes with adjustable max attempts  
 
-### 🍔 [**FoodExpress**](#)
+### 🍔 [**FoodExpress**](https://github.com/Biohazardyee/FoodExpress)
 > A RESTful API developed with **Node.js**, **Express.js**, and **TypeScript** for managing users, restaurants, and menus on an online food ordering platform.  
 > - Full **CRUD** operations for users, restaurants, and menus  
 > - **JWT authentication** with user and admin roles  
