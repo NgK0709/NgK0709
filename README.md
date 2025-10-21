@@ -6,40 +6,41 @@ Always eager to learn, I’m deeply interested in **software design**, **game de
 ---
 
 ## 🧠 About Me
-- 💻 Developer focused on creating meaningful and efficient solutions.  
+- 💻 Developer and **DevOps apprentice**, focused on creating meaningful and efficient solutions.  
 - 🚀 Always learning new technologies and improving existing projects.  
 - 🎓 Currently a **3rd-year Master’s student at SUPINFO Tours Nord**.  
-- 🧗‍♂️ Passionate about **climbing, volleyball, and sports in general** — they keep me motivated and balanced.
-- ☕ Not coffee addict, clean-code enthusiast, and architecture nerd.
+- 🧗‍♂️ Passionate about **climbing, volleyball, and sports in general** — they keep me motivated and balanced.  
+- ☕ Not a coffee addict, but definitely a clean-code enthusiast and architecture nerd.
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### 💬 Languages
-- C# / Unity
-- C / C++
+- C# / Unity  
+- C / C++  
 - Python  
-- JavaScript / TypeScript  
+- JavaScript / TypeScript / PHP / Symfony
 - HTML / CSS / React  
-- SQL / NoSQL (Firebase, MongoDB)
-- Java
+- SQL / NoSQL (Firebase, MongoDB)  
+- Java  
 
 ### ⚙️ Tools & Environments
 - Git / GitHub / GitLab  
-- Docker / Prometheus / Grafana / Loki  
-- Firebase / OpenTelemetry  
-- VS Code / Rider / Visual Studio  
-- Linux / Debian / Ubuntu
+- Docker / Prometheus / Grafana / Loki / Nginx  
+- Firebase / MongoDB  
+- TeamCity / CI-CD Pipelines  
+- VS Code / Visual Studio / JetBrains  
+- Linux / Debian  
 
 ### 🎮 Areas of Expertise
-- Game Development with Unity and others languages (management, strategy, real-time multiplayer)  
-- Monitoring & Observability (Prometheus, Grafana, Loki)  
-- Containerized deployment with Docker and secure reverse proxy (NGINX / HTTPS)
+- Game Development with Unity and other languages (management, strategy, real-time multiplayer)
+- DevOps practices: CI/CD pipelines, container orchestration, monitoring, and automation
+- Containerized deployment with Docker and secure reverse proxy (NGINX / HTTPS, Authentication)
 
 ---
 
-## 🧩 Projects
+## 🧩 School Projects
 
 ### 🎮 [**City Builder Game**](#)
 > A PC management/strategy game made with Unity.  
@@ -53,30 +54,28 @@ Always eager to learn, I’m deeply interested in **software design**, **game de
 > - Dynamic color feedback system (correct, present, absent)  
 > - Unique game codes with adjustable max attempts  
 
-### 📊 [**Monitoring Platform (Prometheus + Grafana)**](#)
-> Full observability setup for a 6-server Debian infrastructure.  
-> - cAdvisor + Node Exporter on each node  
-> - Centralized OpenTelemetry Collector  
-> - Secured HTTPS communication via NGINX reverse proxy  
-
 ---
 
 ## 🎓 Education & Background
 
-- 🎓 **High School Diploma** — Vaucanson, Tours NORD
-  > Focus on software development, distributed systems, or game design
-- 💼 **Professional & Internship Experience**  
-  - Deployed and monitored containerized applications  
-  - Developed Unity / C# gameplay systems  
-  - Designed backend architectures and metric visualization dashboards  
+- 🎓 **High School Diploma** — Vaucanson, Tours Nord  
+- 🎓 **3rd-year Master’s Degree — SUPINFO Tours Nord (France)**  
+  > Focus on software engineering, distributed systems, and game development.  
+
+- 💼 **Professional & Internship Experience (DevOps Apprenticeship)**  
+  - Working as a **DevOps engineer in apprenticeship**, contributing to automation and infrastructure reliability  
+  - Deployed and monitored containerized applications
+  - Designed and implemented a continuous deployment (CD) pipeline with TeamCity
+  - Managed observability stack (Prometheus, Grafana, Loki) for performance tracking
+  - Designed backend architectures and metric visualization dashboards
 
 ---
 
 ## 📫 Contact Me
 
-- 💼 **LinkedIn** : https://www.linkedin.com/in/noah-guillard-9a81b829b/
-- ✉️ **Email** : noahgtours37@gmail.com
-- 🐙 **GitHub** : [@NgKk37](https://github.com/NgKk37)
+- 💼 **LinkedIn** : [linkedin.com/in/noah-guillard-9a81b829b](https://www.linkedin.com/in/noah-guillard-9a81b829b/)  
+- ✉️ **Email** : noahgtours37@gmail.com  
+- 🐙 **GitHub** : [@NgK0709](https://github.com/NgK0709)
 
 ---
 
