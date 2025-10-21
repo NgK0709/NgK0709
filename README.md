@@ -69,8 +69,6 @@ Always eager to learn, I’m deeply interested in **software design**, **game de
 
 - 🎓 **High School Diploma** — Vaucanson, Tours Nord  
 - 🎓 **3rd-year Master’s Degree — SUPINFO Tours Nord (France)**  
-  > Focus on software engineering, distributed systems, and game development.  
-
 - 💼 **Professional & Internship Experience (DevOps Apprenticeship)**  
   - Working as a **DevOps engineer in apprenticeship**, contributing to automation and infrastructure reliability  
   - Deployed and monitored containerized applications
