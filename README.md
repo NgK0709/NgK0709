@@ -85,11 +85,11 @@ Always eager to learn, I’m deeply interested in **software design**, **game de
 
 ---
 
-![NgKk0709's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngkk0709&theme=chartreuse-dark)
+![NgK0709's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngk0709&theme=chartreuse-dark)
 
 ---
 
-![NgKk0709's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngkk0709&layout=compact&theme=tokyonight)
+![NgK0709's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngk0709&layout=compact&theme=tokyonight)
 
 <!--
 ⭐ Feel free to add your GitHub stats below:
