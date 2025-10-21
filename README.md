@@ -91,8 +91,4 @@ Always eager to learn, I’m deeply interested in **software design**, **game de
 
 ![NgK0709's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngk0709&layout=compact&theme=tokyonight)
 
-<!--
-⭐ Feel free to add your GitHub stats below:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
 -->
