@@ -67,7 +67,7 @@ Always eager to learn, I’m deeply interested in **software design**, **game de
 > A digital recreation of the **Yinsh** board game, fully developed in **Python** with **Pygame**.  
 > - Faithful reproduction of the original Yinsh gameplay  
 > - **Single-player mode** with basic AI  
-> - **Local 2-player** (same computer and **LAN multiplayer** (two different computer) 
+> - **Local 2-player** (same computer) and **LAN multiplayer** (two different computer) 
 > - **Save system** with multiple slots (JSON format)
 > - **Custom themes**, **language options (FR/EN)**, and **audio settings**  
 > - Modular and scalable architecture separating **logic** and **UI**
