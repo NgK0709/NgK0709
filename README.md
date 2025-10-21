@@ -8,7 +8,8 @@ Always eager to learn, I’m deeply interested in **software design**, **game de
 ## 🧠 About Me
 - 💻 Developer focused on creating meaningful and efficient solutions.  
 - 🚀 Always learning new technologies and improving existing projects.  
-- 🎯 Goal: build smart, scalable, and elegant systems.  
+- 🎓 Currently a **3rd-year Master’s student at SUPINFO Tours Nord**.  
+- 🧗‍♂️ Passionate about **climbing, volleyball, and sports in general** — they keep me motivated and balanced.
 - ☕ Not coffee addict, clean-code enthusiast, and architecture nerd.
 
 ---
@@ -32,7 +33,7 @@ Always eager to learn, I’m deeply interested in **software design**, **game de
 - Linux / Debian / Ubuntu
 
 ### 🎮 Areas of Expertise
-- Unity Game Development (management, strategy, real-time multiplayer)  
+- Game Development with Unity and others languages (management, strategy, real-time multiplayer)  
 - Monitoring & Observability (Prometheus, Grafana, Loki)  
 - Containerized deployment with Docker and secure reverse proxy (NGINX / HTTPS)
 
@@ -62,7 +63,7 @@ Always eager to learn, I’m deeply interested in **software design**, **game de
 
 ## 🎓 Education & Background
 
-- 🎓 **High School Diploma** — Vaucanson, Tours NORD]
+- 🎓 **High School Diploma** — Vaucanson, Tours NORD
   > Focus on software development, distributed systems, or game design
 - 💼 **Professional & Internship Experience**  
   - Deployed and monitored containerized applications  
@@ -84,7 +85,11 @@ Always eager to learn, I’m deeply interested in **software design**, **game de
 
 ---
 
-![NgKk37's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngkk37&theme=chartreuse-dark)
+![NgKk0709's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngkk0709&theme=chartreuse-dark)
+
+---
+
+![NgKk0709's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngkk0709&layout=compact&theme=tokyonight)
 
 <!--
 ⭐ Feel free to add your GitHub stats below:
