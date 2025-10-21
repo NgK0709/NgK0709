@@ -54,6 +54,15 @@ Always eager to learn, I’m deeply interested in **software design**, **game de
 > - Dynamic color feedback system (correct, present, absent)  
 > - Unique game codes with adjustable max attempts  
 
+### 🍔 [**FoodExpress**](#)
+> A RESTful API developed with **Node.js**, **Express.js**, and **TypeScript** for managing users, restaurants, and menus on an online food ordering platform.  
+> - Full **CRUD** operations for users, restaurants, and menus  
+> - **JWT authentication** with user and admin roles  
+> - **Data validation** to ensure input consistency  
+> - **Swagger (OpenAPI)** documentation for easy integration and route testing  
+> - **Unit testing** with Mocha and coverage reports  
+> - Modular and scalable architecture built on **MongoDB**
+
 ---
 
 ## 🎓 Education & Background
