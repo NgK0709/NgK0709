@@ -89,7 +89,7 @@ Always eager to learn, I’m deeply interested in **software design**, **game de
 
 ## 📫 Contact Me
 
-- 💼 **LinkedIn** : [linkedin.com/in/noah-guillard-9a81b829b](https://www.linkedin.com/in/noah-guillard-9a81b829b/)  
+- 💼 **LinkedIn** : [linkedin.com/in/noah-guillard-9a81b829b](https://www.linkedin.com/in/noah-guillard/)  
 - ✉️ **Email** : noahgtours37@gmail.com  
 - 🐙 **GitHub** : [@NgK0709](https://github.com/NgK0709)
 
